@@ -1,0 +1,46 @@
+.navbar a{
+  color: rgb(24, 197, 91) !important;
+  font-size: 45px !important;
+  }
+h1{
+  
+  font-family: "Lucida Console", Courier, monospace;
+}
+h2{
+  color:rgba(0, 0, 0, 0.726);
+  font-size: 30px;
+  font-family: "Lucida Console", Courier, monospace;
+}
+h3{
+  color: grey;
+  font-size: 20px;
+  font-family: "Lucida Console", Courier, monospace;
+}
+.carousel-item{
+    height: 600px;
+    padding: 5px;
+} 
+.carousel-item img{
+    height: 600px;
+    padding: 5px;
+}
+.carousel-caption {
+  top: 0;
+  bottom: auto;
+  color: black;
+}
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 2% 7%;
+  }
+  
+  .footer-icon {
+    margin: 3%;
+  }
+  
